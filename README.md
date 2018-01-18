@@ -1,4 +1,6 @@
+# 从他人仓库 Fork 而来，仅作存档
 
+```
 这是我的[个人博客](www.ezlippi.com)采用的Hexo主题源码
 
 ## 如何使用主题
@@ -22,3 +24,4 @@ theme: next
 
 修改next主题下的_config.xml文件，具体配置参考[Hexo搭建个人博客](http://www.ezlippi.com/blog/2016/02/jekyll-to-hexo.html)
 
+```
